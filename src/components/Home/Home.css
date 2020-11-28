@@ -1,0 +1,10 @@
+.home-container{
+    background-image: url("../../images/bg.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: 700 !important;
+    padding: 50px !important;
+}
